@@ -10,9 +10,6 @@
     "cordova-plugin-device": {
       "PACKAGE_NAME": "app.mobile.helloEvent"
     },
-    "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "app.mobile.helloEvent"
-    },
     "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "app.mobile.helloEvent"
     },
